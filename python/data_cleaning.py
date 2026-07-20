@@ -3,7 +3,7 @@ ERP Sales & Supply Chain Analytics
 
 Data Cleaning Pipeline
 
-Author: Dhruv Tyagi
+Author: Nitya
 """
 
 import pandas as pd
