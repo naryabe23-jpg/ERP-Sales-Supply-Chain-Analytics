@@ -226,6 +226,6 @@ Current configuration includes:
 
 **Nitya Arya**
 
-Computer Science Engineering Student
+Electronics and Communnication Engineering Student
 
 
