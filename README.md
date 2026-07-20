@@ -224,14 +224,8 @@ Current configuration includes:
 
 ## Author
 
-**Dhruv Tyagi**
+**Nitya Arya**
 
 Computer Science Engineering Student
 
-Interested in:
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Cloud Computing
-- Business Intelligence
